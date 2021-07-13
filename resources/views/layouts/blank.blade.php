@@ -23,12 +23,6 @@
                     <p class="text-gray-500 text-sm">5000.00</p>
                 </div>
             </div>
-            
-            
-            
-            
-
-            
             @yield('content')
         </div>
        
